@@ -1,3 +1,4 @@
+/* 2021 Christopher Wahl */
 'use strict';
 const Issue = require('../model');
 const ObjectId = require('mongodb').ObjectId

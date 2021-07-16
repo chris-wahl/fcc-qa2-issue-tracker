@@ -1,3 +1,4 @@
+/* 2021 Christopher Wahl */
 'use strict';
 require('dotenv').config();
 const mongoose = require('mongoose');
